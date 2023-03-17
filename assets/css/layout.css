@@ -1,14 +1,50 @@
-.mycontainer{
+/* .mycontainer{
     background-color: blue;
     height: 300px;
-}
+} */
 
 .figma{
     background-color: rgb(159, 200, 200);
-    height: 500px;
+    height: 676px;
 }
 
-.second{
+.box1{
     background-color: rgb(159, 200, 200);
+    height: 328px;
+}
+
+.box2{
+    background-color: rgb(159, 200, 200);
+    height: 347px;
+}
+
+.box{
+    background-color: gray;
+    height: 500px;
+    align-items: center;
+}
+
+.col-md-3{
+    height: 110px;
+}
+
+.tips{
+    background-color: darkolivegreen;
+    height:800px;
+}
+
+.pop{
+    padding: 2rem;
+}
+.pop button{
+    background-color: #000;
+    color: #fff;
+    border-radius: 2rem;
+    border: none;
+    width: 7rem;
+    height: 2rem;
+}
+
+.travel img{
     height: 500px;
 }
