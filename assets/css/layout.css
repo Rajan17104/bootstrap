@@ -28,14 +28,25 @@
     height: 110px;
 }
 
-.tips{
+/* .tips{
     background-color: darkolivegreen;
     height:800px;
-}
+} */
 
 .pop{
     padding: 2rem;
 }
+
+/* .pop1{
+    padding-bottom: 20px;
+    padding: 2rem;
+}
+
+.pop2{
+    padding-top: 20px;
+    padding: 2rem;
+} */
+
 .pop button{
     background-color: #000;
     color: #fff;
@@ -45,6 +56,12 @@
     height: 2rem;
 }
 
-.travel img{
-    height: 500px;
+.travel button{
+    background-color: #000;
+    color: #fff;
+    border-radius: 2rem;
+    border: none;
+    width: 7rem;
+    height: 2rem;
 }
+
